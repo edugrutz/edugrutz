@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm Eduardo!
 
-<!--
-**edugrutz/edugrutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🔬 Biotech researcher & Front-End Developer with a strong background in bioinformatics and scientific software.
 
-Here are some ideas to get you started:
+🧪 Currently working at **OmixLab** and contributing to the **BAMBU** project (drug discovery tools).  
+🛠️ Creator of **[DocKing](https://github.com/teu-usuario/DocKing)** – a user-friendly Electron app for molecular docking.  
+📚 Master's student in Biotechnology | Bachelor's in Biotechnology (UFPEL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I work with
+- **Languages:** TypeScript, JavaScript, Python, Bash  
+- **Frontend:** React.js, Next.js, Vite, Tailwind/Bootstrap
+- **Tools:** Electron, Open Babel, Nextflow  
+- **Focus:** Scientific tools • Bioinformatics pipelines • Data visualization
+
+## 🚀 Projects I'm proud of
+- [DocKing](https://edugrutz.github.io/DocKing/) – Docking made simple with Electron + React  
+- [BAMBU](https://www.bambu-qsar.com/) – Open tools for drug discovery (WIP)
+
+## 📫 Let's connect
+- 🌐 [LinkedIn](https://www.linkedin.com/in/edugrutz/)
+- 💬 Always open to collaborations in biotech x software!
+
+---
+
