@@ -14,7 +14,8 @@
 
 ## 🚀 Projects I'm proud of
 - [DocKing](https://edugrutz.github.io/DocKing/) – Docking made simple with Electron + React  
-- [BAMBU](https://www.bambu-qsar.com/) – Open tools for drug discovery (WIP)
+- [BAMBU](https://www.bambu-qsar.com/) – Open tools for drug discovery
+- PeptoMiner - Pipeline for mining terapheutic peptides from metagenomic data (WIP)
 
 ## 📫 Let's connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/edugrutz/)
