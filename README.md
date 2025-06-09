@@ -2,7 +2,7 @@
 
 👨‍🔬 Biotech researcher & Front-End Developer with a strong background in bioinformatics and scientific software.
 
-🧪 Currently working at **OmixLab** and contributing to the **BAMBU** project (drug discovery tools).  
+🧪 Currently working at **OmixLab** 
 🛠️ Creator of **[DocKing](https://github.com/teu-usuario/DocKing)** – a user-friendly Electron app for molecular docking.  
 📚 Master's student in Biotechnology | Bachelor's in Biotechnology (UFPEL)
 
