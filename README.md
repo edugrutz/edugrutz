@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Eduardo!
+Biotech researcher & Front-End Developer with a strong background in bioinformatics and scientific software.
 
-👨‍🔬 Biotech researcher & Front-End Developer with a strong background in bioinformatics and scientific software.
-
-🧪 Currently working at **OmixLab** 
+    
+🧪 Currently working at **[OmixLab](https://github.com/omixlab)**.  
 🛠️ Creator of **[DocKing](https://github.com/teu-usuario/DocKing)** – a user-friendly Electron app for molecular docking.  
 📚 Master's student in Biotechnology | Bachelor's in Biotechnology (UFPEL)
 
 ## 🧠 What I work with
 - **Languages:** TypeScript, JavaScript, Python, Bash  
 - **Frontend:** React.js, Next.js, Vite, Tailwind/Bootstrap
-- **Tools:** Electron, Open Babel, Nextflow  
+- **Tools:** NextFlow, Electron, Open Babel
 - **Focus:** Scientific tools • Bioinformatics pipelines • Data visualization
 
 ## 🚀 Projects I'm proud of
