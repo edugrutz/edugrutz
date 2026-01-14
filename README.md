@@ -1,9 +1,10 @@
 # 👋 Hey, I'm Eduardo!
-Biotech researcher & Front-End Developer with a strong background in bioinformatics and scientific software.
+**Full Stack Developer & Biotech Researcher**  
+Building scientific software, bioinformatics pipelines and web applications.
 
     
 🧪 Currently working at **[OmixLab](https://github.com/omixlab)**.  
-🛠️ Creator of **[DocKing](https://github.com/teu-usuario/DocKing)** – a user-friendly Electron app for molecular docking.  
+🛠️ Creator of **[DocKing](https://edugrutz.github.io/DocKing/)** – a user-friendly Electron app for molecular docking.  
 📚 Master's student in Biotechnology | Bachelor's in Biotechnology (UFPEL)
 
 ## 🧠 What I work with
